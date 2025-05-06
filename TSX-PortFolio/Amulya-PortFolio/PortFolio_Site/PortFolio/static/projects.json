@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Netflix Clone",
+    "desc": "Full-Stack NetFlix Clone",
+    "image": "netflix",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "Full-Stack Spotify Clone Built Using MERN Stack",
+    "image": "spotify",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects"
+    }
+  },
+  {
+    "name": "SnapBazzar",
+    "desc": "E-commerce Website",
+    "image": "cmsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType"
+    }
+  },
+  {
+    "name": "Get To ConvoFlow",
+    "desc": "Offline Video-Voice-Chat Real Time Web Application",
+    "image": "cmsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType"
+    }
+  },
+  {
+    "name": "Introducing Cravo",
+    "desc": "Food Delivery System–",
+    "image": "cmsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType",
+      "code": "https://github.com/Always-Amulya7/TheADS_Repo/tree/main/WebDev%20Projects/NetFlix%20Clone%20ProtoType"
+    }
+  }
+]

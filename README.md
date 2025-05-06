@@ -7,7 +7,7 @@
 - **Company:** Techsonix Solutions  
 - **Platform:** Unstop  
 - **Role:** Python Developer Intern  
-- **Duration:** [Start Date] To [End Date]  
+- **Duration:** 6th April 2025
 - **Focus Areas:**  
   - Python Programming  
   - Industrial Automation With Python  
